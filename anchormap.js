@@ -50,14 +50,6 @@ function matchAndCountAnchors() {
 }
 
 
-
-
-
-
-
-
-
-
 function matchAndCountAnchorsExternal() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var insightsSheet = ss.getSheetByName("EXTERNAL ANCHOR INSIGHTS");
